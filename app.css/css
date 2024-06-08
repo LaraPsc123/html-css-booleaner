@@ -6,10 +6,6 @@
 .image-booleaner {
     width: 10%;
     margin-left: 10%;
-    height: 10%;
-
-
-
 }
 
 .width {
