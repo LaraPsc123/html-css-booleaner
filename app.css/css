@@ -1,0 +1,11 @@
+.page-header {
+    background-color: rgba(59, 163, 170, 0.997);
+    color: white;
+    background-size: 50px
+}
+
+.article {
+    font-size: 15px;
+}
+
+/* tutti i tag p dentro un tag h2 non avranno margine*/
